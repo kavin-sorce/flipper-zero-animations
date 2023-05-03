@@ -1,0 +1,2 @@
+# flipper-zero-animations
+flipper
