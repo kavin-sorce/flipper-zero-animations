@@ -1,0 +1,1641 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: 3Skulls
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: 80sCar
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: 80sCar_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: 911Drift
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: AC
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ActionMoon
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: AdventurerTimes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: AnimeRunning
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Arcade
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: AroundTheEarth
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: AssDance
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Astro
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BackToTheFututre
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Bat
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanBaller
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanCard
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanCard_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanSigma
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanSigma_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanSigma1_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanSigmaZoomed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BatemanVeryNice
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Batman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BecomingZomb
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: belugaTheCat
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BidenZero
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BidenZero_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BoatThinking
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: BossBabySleep
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Bunny
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: CactieDance
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Cadilac
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ChaosElmo
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ChaosSpongeBob
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Ciggarete
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: CityHack
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Code
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Code_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Coding
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Coding_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ComicEye
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: CoolEnergy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: CoolEnergy_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: CountachDream
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Countdown
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Cr4Zy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Cyberwar
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Cyberwar_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Death
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DigitalRain
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DigitalRain_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DigitalRainThick
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DigitalRainThick_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DonkeyKong
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DragRace
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: DrivingCar
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: EatingFlesh
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Elon
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: EmenenCrying
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: EnergyD33R
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: EyeTear
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: FindJakeDance
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Fish
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: FlipperArmy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Flowers
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Flying
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: FrankTheGhost
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: FunTime
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: FutureCity
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: GameofThrones
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: GumballDisapearing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: GumballSmile
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HackingCat
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HackingCat_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HeadGlitch
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HeadGlitch_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HairAndEye
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HairChange
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: HeadGlitch
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Hypno
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: InfiniteBorn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: InfiniteSpiral
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: InsertToContinue
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Internet
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Internet_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: JDMGame
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: JerryPong
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: JohnWickGun
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: JohnWickWalking
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Journey
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Killing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Kirby
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Labyrinth
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LadaFallingApart
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Lake
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LamboGame
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LancerEvo
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Lizard
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Loading
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LotNyan
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: madMax
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ManifestCreator
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: manyEyes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Mari0
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Matrix
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Matrix_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MatrixRain
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MatrixRain_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MemeHack
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MemeHack_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MoonSkull
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Moonwlk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MordekayRigby
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MountainDriving
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: MusicDisk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Nailing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Naruto
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoCatchingBullets
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoChallenge
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoChallenge_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoFalling
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoFalling_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoSpawn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoSpawn_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NeoStopppingBullets_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NoSleep
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NPCRunning
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NyanDolphin
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NyanDonut
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: NyanPikachu
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: OhNoHackers
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Ouija
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: P1xN1nja
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: PikaSlap
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: PiratePill
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Power
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Programmer
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: PsychoWalk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: PugRun
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: PutinControl
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: PutinPCcontrol_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RainFinJake
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RainingTram
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Restaurant
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RetroVibe
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RobertDowneyJR
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RobinEyes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RobinScream
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RomanF&F
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RunningGuy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: RX-7Drift
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SamuraiVibe
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ScarySmile
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ScaryWoman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Shark
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ShelbyDocuments
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ShelbyDoor
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ShelbyFire
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ShelbySigma
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: ShelbySmoking
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SingAndWalk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SkullCode
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SkullCode_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Sleepy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Snoopdekairigby
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Snoopy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SnoopyBirthday
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SnoopyPingPong
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: spider-man
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Spiral
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Spiral_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SplittedHuman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: SpongebobPants
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Squirtle
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Stairs
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Terminator
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TerminatorTurn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TheAnswerIsZero
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TheAnswerIsZero_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TokyoDrift
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TokyoDrift_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TokyoDriftGo
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TommyShelbyGang
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Train
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Trainning
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Trueno
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TunnelRain
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: TunnelRain_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Typing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Universe
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Uranus
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: WallE
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: WindowsHack
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: WindowsHack_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: WitchBurn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Zelda
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Zombie
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Zombies
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Kuronons_RMCFW_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: L1_Mods_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Painting_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Senpai_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Wotori_Purple_rain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L2_Unleashed_FlipperCity_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: L2_Wake_up_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_G0G374_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: Sasquach_Blaster_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_CloudG0ku_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_D1g1talRa1n_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: Sasquach_Narut0_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_RMCF_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: L1_Waves_128x50
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Laptop_128x51
+Min butthurt: 0
+Max butthurt: 7
+Min level: 1
+Max level: 1
+Weight: 3
+
+Name: L1_Sleep_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Recording_128x51
+Min butthurt: 0
+Max butthurt: 8
+Min level: 1
+Max level: 1
+Weight: 3
+
+Name: L1_Furippa1_128x64
+Min butthurt: 0
+Max butthurt: 6
+Min level: 1
+Max level: 1
+Weight: 3
+
+Name: L1_Read_books_128x64
+Min butthurt: 0
+Max butthurt: 8
+Min level: 1
+Max level: 1
+Weight: 3
+
+Name: L1_Cry_128x64
+Min butthurt: 8
+Max butthurt: 13
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Boxing_128x64
+Min butthurt: 10
+Max butthurt: 13
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Mad_fist_128x64
+Min butthurt: 9
+Max butthurt: 13
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Mods_128x64
+Min butthurt: 0
+Max butthurt: 9
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Painting_128x64
+Min butthurt: 0
+Max butthurt: 7
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Leaving_sad_128x64
+Min butthurt: 14
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_Senpai_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 4
+
+Name: L2_Wake_up_128x64
+Min butthurt: 0
+Max butthurt: 12
+Min level: 2
+Max level: 3
+Weight: 3
+
+Name: L2_Furippa2_128x64
+Min butthurt: 0
+Max butthurt: 6
+Min level: 2
+Max level: 2
+Weight: 3
+
+Name: L2_Hacking_pc_128x64
+Min butthurt: 0
+Max butthurt: 8
+Min level: 2
+Max level: 2
+Weight: 3
+
+Name: L2_Soldering_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 2
+Max level: 2
+Weight: 3
+
+Name: L3_Furippa3_128x64
+Min butthurt: 0
+Max butthurt: 6
+Min level: 3
+Max level: 3
+Weight: 3
+
+Name: L3_Hijack_radio_128x64
+Min butthurt: 0
+Max butthurt: 8
+Min level: 3
+Max level: 3
+Weight: 3
+
+Name: L3_Lab_research_128x54
+Min butthurt: 0
+Max butthurt: 10
+Min level: 3
+Max level: 3
+Weight: 3
+
+
+Name: L3_Fireplace_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 2
+Max level: 3
+Weight: 3
+
+Name: L2_FlipperCity_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 2
+Max level: 3
+Weight: 3
+
+Name: L3_FlipperMustache_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 3
+Max level: 3
+Weight: 2
